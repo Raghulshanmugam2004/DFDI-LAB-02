@@ -1,4 +1,4 @@
-![Screenshot (95)](https://github.com/user-attachments/assets/65e926e1-b4cf-4b83-b217-58a679f296d4)# File Recovery using Autopsy
+# File Recovery using Autopsy
 
 ```
 Register Number : 212222040128
